@@ -1,0 +1,5 @@
+outs:
+- md5: c53a955afa6eceda1f38e05c14c893c1
+  size: 170
+  hash: md5
+  path: courses_having_price_greater_than_1500.csv
